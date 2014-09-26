@@ -1,7 +1,8 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background: url(linedpaper.png) repeat;
+  font-family: "Times New Roman", Georgia, Serif;
+ color: white;
+  font-weight: 400;
+  background: url(17878-hd-color-background-wallpaper.jpg) repeat;
 }
 #wrapper {
   width: 960px;
