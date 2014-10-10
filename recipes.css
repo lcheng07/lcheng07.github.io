@@ -1,30 +1,24 @@
-/* Make the name 36px font and italicized */
 h1{
-	font-size: 36px;
+	font-size: 42px;
 	font-style: italic;
 }
-
-/* Make the section headers (e.g. Summary, Experience) 26px font */
 
 h4{
-	font-size: 26px;
+	font-size: 30px;
 	font-style: italic;
 }
-
-/* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
 
 h5{
 	color: green;
-	font-size: 20px;
+	font-size: 24px;
 }
-/* Put a border around the photo, set it to the right */
 
 img#lucy{
 	border: 3px white;
 	border-radius:999999999999999px;
 	float: right;
+	height: 250px;
 }
-/* Set the font family for the whole document, and add a background image */
 
 body {
 	font-family: 'Dosis';
@@ -32,25 +26,19 @@ body {
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
-
 }
 
-/* Give the paragraphs and lists a 26px line height */
 p, li{
-	line-height: 26px
+	line-height: 26px;
 }
-
-/* Make the links purple when I put my mouse over it */
 
 a:hover {
 	color: black;
-	font-size: 20px;
+	font-size: 32px;
 }
 
-
-/* Make the content of the page "sit on top of" the background */
 div#wrapper {
-	background-color: rgba(250,250,250,0.5);
+	background-color: rgba(250,250,250,0.7);
 	width: 960px;
 	margin: 20px auto;
 	padding: 20px;
@@ -58,6 +46,6 @@ div#wrapper {
 
 th{
 	font-size: 20px;
-	font-color:white;
+	font-color: white;
 	font-style: italic;
 }
