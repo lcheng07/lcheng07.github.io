@@ -8,12 +8,13 @@ h1{
 
 h4{
 	font-size: 26px;
+	font-style: italic;
 }
 
 /* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
 
 h5{
-	color: blue;
+	color: green;
 	font-size: 20px;
 }
 /* Put a border around the photo, set it to the right */
@@ -26,7 +27,7 @@ img#lucy{
 /* Set the font family for the whole document, and add a background image */
 
 body {
-	font-family: 'Droid Sans';
+	font-family: 'Dosis';
 	background: url(cheval-burger.jpg);
 	background-size: cover;
 	background-position: center center;
@@ -42,7 +43,7 @@ p, li{
 /* Make the links purple when I put my mouse over it */
 
 a:hover {
-	color:purple
+	color: black;
 	font-size: 20px;
 }
 
@@ -55,15 +56,8 @@ div#wrapper {
 	padding: 20px;
 }
 
-
-/* Make it so you can see the footer and center it */
-div#pollos{
-	float: right;	
-}
-
-
-div#footer{
-	color: white;
-	margin: 20px auto;
-	text-align: center;
+th{
+	font-size: 20px;
+	font-color:white;
+	font-style: italic;
 }
