@@ -1,0 +1,19 @@
+body {
+	font-family: 'Poiret One', cursive;
+	background: url(pear_melba.png);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.col-md-7{
+	background-color: rgba(250,250,250,0.7);
+}
+
+.col-md-3{
+	background-color: rgba(250,250,250,0.7);
+}
+
+.nav nav-pills{
+	background-color: rgba(250,250,250,0.7);
+}
